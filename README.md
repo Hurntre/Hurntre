@@ -1,7 +1,6 @@
 ### Hello there 👋. Welcome to my not so little corner on GITHUB
 
-I am a Software Developer, Wordpress Developer and a Creative Director of Imprint by Hurntre![image](https://user-images.githubusercontent.com/52332371/111868725-db68e700-897b-11eb-8d6a-71fcc0552f95.png)
- (Yh, I am technical and artistic  😅)
+I am a Software Developer, Wordpress Developer and a Creative Director of Imprint by Hurntre (Yh, I am technical and artistic  😅)
 
 <!--
 **Hurntre/Hurntre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
