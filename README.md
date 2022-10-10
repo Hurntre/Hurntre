@@ -1,6 +1,8 @@
 ### Hello there 👋. Welcome to my not so little corner on GITHUB
 
-I am a Software Developer, Wordpress Developer and the Creative Director of Imprint by Hurntre (analytical and creative, I know right 😅)
+I am a Software Developer
+- 🔭 I’m currently working on CARY. An logistics application that ensures users can access efficient services.
+- 🌱 I’m currently learning REACTJS
 - 📫 How to reach me: DM @Hurntre on Twitter and IG
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am currently working on my FIFA career. Invite me over for a quick game.
