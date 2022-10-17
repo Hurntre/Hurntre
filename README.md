@@ -1,9 +1,9 @@
-### Hello there 👋. Welcome to my not so little corner on GITHUB
+### Hello there 👋. Welcome to my corner on GITHUB
 
 I am Adefolaju Ariyo, A Full-stack Web Developer. I use the MERN stack currently. I am a computer science graduate from Bowen University, Iwo Nigeria and I am currently doing an MBA degree at The University of Ibadan School of Business.
 
-- 🔭 I’m currently working on CARY. An logistics application that ensures users can access efficient services.
-- 🌱 I’m currently learning REACTJS
+- 🔭 I’m currently working on CARY. A logistics application that ensures users can access efficient services.
+- 🌱 I’m currently learning how to use websockets
 - 📫 How to reach me: DM @Hurntre on Twitter and IG
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am currently working on my FIFA career. Invite me over for a quick game.
