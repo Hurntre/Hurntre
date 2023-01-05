@@ -2,11 +2,11 @@
 
 I am Adefolaju Ariyo, A Full-stack Web Developer. I use the MERN stack currently. I am a computer science graduate from Bowen University, Iwo Nigeria and I am currently doing an MBA degree at The University of Ibadan School of Business.
 
-- 🔭 I’m currently working on CARY. A logistics application that ensures users can access efficient services.
-- 🌱 I’m currently learning how to use websockets
+- 🔭 I’m currently working on Umobile. A mobility platform that helps individual manage their movement.
+- 🌱 I’m currently learning how to use Typescript and the NestJS framework
 - 📫 How to reach me: DM @Hurntre on Twitter and IG
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am currently working on my FIFA career. Invite me over for a quick game.
+- ⚡ Fun fact: The toughest tongue twister includes TASK and TAX.
 <!--
 **Hurntre/Hurntre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
