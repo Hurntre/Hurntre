@@ -6,11 +6,10 @@ Adefolaju Ariyo | Full Stack Engineer
 - 🌱 Passionate learner, currently exploring GoLang.
 - 📓 B.Sc. Computer Science from Bowen University, Iwo, Nigeria. 
 - 💼 MBA from the University of Ibadan School of Business, Nigeria.
-- 📫 Connect with me 
--    Twitter: @Hurntre: https://twitter.com/Hurntre
--    Instagram: @Hurntre: https://www.instagram.com/Hurntre
+- 📫 Connect with me on Twitter @Hurntre
+- 🦜 Twitter @hurntre https://twitter.com/Hurntre
+- 📸 Instagram @hurntre https://instagram.com/Hurntre
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The toughest tongue twister includes TASK and TAX.
 
 
 <!--
