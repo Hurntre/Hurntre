@@ -1,12 +1,18 @@
 ### Hello there 👋. Welcome to my corner on GITHUB
 
-I am Adefolaju Ariyo, A Full-stack Web Developer. I use the MERN stack currently. I am a computer science graduate from Bowen University, Iwo Nigeria and I am currently doing an MBA degree at The University of Ibadan School of Business.
+Adefolaju Ariyo | Full Stack Engineer
 
-- 🔭 I’m currently working on Umobile. A mobility platform that helps individual manage their movement.
-- 🌱 I’m currently learning how to use Typescript and the NestJS framework
-- 📫 How to reach me: DM @Hurntre on Twitter and IG
+- 🔭 Software Engineer at Edens360, building fintech solutions for financial inclusion in Liberia. (Since July 2022)
+- 🌱 Passionate learner, currently exploring GoLang.
+- 📓 B.Sc. Computer Science from Bowen University, Iwo, Nigeria. 
+- 💼 MBA from the University of Ibadan School of Business, Nigeria.
+- 📫 Connect with me
+-    Twitter: @Hurntre: https://twitter.com/Hurntre
+-    Instagram: @Hurntre: https://https://www.instagram.com/Hurntre
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The toughest tongue twister includes TASK and TAX.
+
+
 <!--
 **Hurntre/Hurntre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
